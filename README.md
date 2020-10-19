@@ -1,2 +1,2 @@
 # PDF_Merger
-PDF MERGER
+Pdf merger for a very specific task.
